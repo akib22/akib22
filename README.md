@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akibur Rahman</h1>
-<h3 align="center">
+<p align="center">
   I am a passionate Full-stack developer from Bangladesh. Specialized in
   JavaScript, NodeJS and ReactJS.
-</h3>
-<br />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,7 +47,6 @@
       width="40"
   /></a>
 </p>
-<br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a
@@ -99,6 +97,23 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
       width="40"
       height="40"
     />
@@ -178,23 +193,6 @@
     />
   </a>
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -205,15 +203,15 @@
   </a>
 </p>
 
-<p>
+<div>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=akib22&show_icons=true&locale=en&layout=compact"
     alt="akib22"
   />
 </p>
 
-<p>
+<div>
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=akib22&show_icons=true&locale=en"
@@ -221,7 +219,7 @@
   />
 </p>
 
-<p>
+<div>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=akib22&"
