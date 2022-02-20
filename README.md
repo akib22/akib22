@@ -1,20 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akibur Rahman</h1>
 <p align="center">
   I am a passionate Full-stack developer from Bangladesh. Specialized in
-  JavaScript, NodeJS and ReactJS.
+  JavaScript, NodeJS and ReactJS. I enjoy learning and experimenting with new technology.
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/akibur227" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="akibur227"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/akibur" target="blank"
+  <a href="https://linkedin.com/in/akibur" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -22,7 +14,15 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://medium.com/@akibur-rahman" target="blank"
+  <a href="https://twitter.com/akibur227" target="_blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="akibur227"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://medium.com/@akibur-rahman" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
@@ -30,7 +30,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/akibur227" target="blank"
+  <a href="https://www.hackerrank.com/akibur227" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
@@ -38,7 +38,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.leetcode.com/akibur227" target="blank"
+  <a href="https://www.leetcode.com/akibur227" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
@@ -203,26 +203,11 @@
   </a>
 </p>
 
-<div>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=akib22&show_icons=true&locale=en&layout=compact"
-    alt="akib22"
-  />
-</p>
-
+<h3 align="left">My github stats:</h3>
 <div>
   &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=akib22&show_icons=true&locale=en"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=akib22&show_icons=true&locale=en&theme=tokyonight"
     alt="akib22"
   />
-</p>
-
-<div>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=akib22&"
-    alt="akib22"
-  />
-</p>
+</div>
